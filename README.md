@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@iamwsubramanyam" target="blank"><img src="https://img.shields.io/twitter/follow/@iamwsubramanyam?logo=twitter&style=for-the-badge" alt="@iamwsubramanyam" /></a> </p>
 
-- 🔭 I’m currently working on **AI, Machine Learning, Deep Learning,**
+- 🔭 I’m currently working on **AI, Machine Learning, Deep Learning**
 
 - 🌱 I’m currently learning **Large Language Models , Representation Learning , Continual Learning , Responsible AI**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@wsubramanyamsahoo](https://medium.com/@wsubramanyamsahoo)
 
-- 💬 Ask me about **Generative AI, Neural Network,**
+- 💬 Ask me about **Generative AI, Neural Networks**
 
 - 📫 How to reach me **sahoosubramanyam@gmail.com**
 
