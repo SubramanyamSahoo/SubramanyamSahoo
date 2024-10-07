@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI, Machine Learning, Deep Learning**
 
-- 🌱 I’m currently learning **Large Language Models , Representation Learning , Continual Learning , Responsible AI**
+- 🌱 I’m currently learning **Large Language Models , Responsible AI**
 
 - 👯 I’m looking to collaborate on **Computer Vision, Natural Language Processing**
 
